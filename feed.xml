@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>personal</title>
-    <link href="https://github.com/jasminbiewald/.de.git/feed.xml" rel="self" />
-    <link href="https://github.com/jasminbiewald/.de.git" />
+    <link href="https://github.com/jasminbiewald/website/feed.xml" rel="self" />
+    <link href="https://github.com/jasminbiewald/website" />
     <updated>2026-11-21T14:23:29+01:00</updated>
     <author>
         <name>Jasmin Biewald</name>
     </author>
-    <id>https://github.com/jasminbiewald/.de.git</id>
+    <id>https://github.com/jasminbiewald/website</id>
 
     <entry>
         <title>Aktuelle Stationen</title>
         <author>
             <name>Jasmin Biewald</name>
         </author>
-        <link href="https://github.com/jasminbiewald/.de.git/aktuelle-stationen/"/>
-        <id>https://github.com/jasminbiewald/.de.git/aktuelle-stationen/</id>
+        <link href="https://github.com/jasminbiewald/website/aktuelle-stationen/"/>
+        <id>https://github.com/jasminbiewald/website/aktuelle-stationen/</id>
 
         <updated>2026-11-21T14:23:29+01:00</updated>
             <summary type="html">
@@ -54,8 +54,8 @@
         <author>
             <name>Jasmin Biewald</name>
         </author>
-        <link href="https://github.com/jasminbiewald/.de.git/engagement-and-gesellschaftliche-verantwortung/"/>
-        <id>https://github.com/jasminbiewald/.de.git/engagement-and-gesellschaftliche-verantwortung/</id>
+        <link href="https://github.com/jasminbiewald/website/engagement-and-gesellschaftliche-verantwortung/"/>
+        <id>https://github.com/jasminbiewald/website/engagement-and-gesellschaftliche-verantwortung/</id>
 
         <updated>2026-11-21T14:22:39+01:00</updated>
             <summary type="html">
@@ -94,8 +94,8 @@
         <author>
             <name>Jasmin Biewald</name>
         </author>
-        <link href="https://github.com/jasminbiewald/.de.git/bildung-and-qualifikationen/"/>
-        <id>https://github.com/jasminbiewald/.de.git/bildung-and-qualifikationen/</id>
+        <link href="https://github.com/jasminbiewald/website/bildung-and-qualifikationen/"/>
+        <id>https://github.com/jasminbiewald/website/bildung-and-qualifikationen/</id>
 
         <updated>2026-11-21T14:22:17+01:00</updated>
             <summary type="html">
@@ -134,8 +134,8 @@
         <author>
             <name>Jasmin Biewald</name>
         </author>
-        <link href="https://github.com/jasminbiewald/.de.git/abgeschlossene-berufliche-stationen/"/>
-        <id>https://github.com/jasminbiewald/.de.git/abgeschlossene-berufliche-stationen/</id>
+        <link href="https://github.com/jasminbiewald/website/abgeschlossene-berufliche-stationen/"/>
+        <id>https://github.com/jasminbiewald/website/abgeschlossene-berufliche-stationen/</id>
 
         <updated>2026-11-21T14:22:00+01:00</updated>
             <summary type="html">
