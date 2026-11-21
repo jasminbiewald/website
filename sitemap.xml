@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://github.com/jasminbiewald/.de.git/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://github.com/jasminbiewald/.de.git/</loc>
+</url>
+<url>
+<loc>https://github.com/jasminbiewald/.de.git/abgeschlossene-berufliche-stationen/</loc>
+<lastmod>2026-11-21T14:22:00+01:00</lastmod>
+</url>
+<url>
+<loc>https://github.com/jasminbiewald/.de.git/aktuelle-stationen/</loc>
+<lastmod>2026-11-21T14:23:29+01:00</lastmod>
+</url>
+<url>
+<loc>https://github.com/jasminbiewald/.de.git/bildung-and-qualifikationen/</loc>
+<lastmod>2026-11-21T14:22:17+01:00</lastmod>
+</url>
+<url>
+<loc>https://github.com/jasminbiewald/.de.git/engagement-and-gesellschaftliche-verantwortung/</loc>
+<lastmod>2026-11-21T14:22:51+01:00</lastmod>
+</url>
+<url>
+<loc>https://github.com/jasminbiewald/.de.git/menschen-und-veraenderung-im-mittelpunkt/</loc>
+<lastmod>2026-11-21T14:17:41+01:00</lastmod>
+</url>
+<url>
+<loc>https://github.com/jasminbiewald/.de.git/ueber-mich/</loc>
+<lastmod>2026-11-21T14:18:34+01:00</lastmod>
+</url>
+</urlset>
